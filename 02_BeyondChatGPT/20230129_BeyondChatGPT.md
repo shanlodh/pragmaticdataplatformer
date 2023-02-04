@@ -11,3 +11,7 @@ Whilst everyone's looking at ChatGPT I am trying to think beyond it and understa
 - **On AI ethics, trust and security:** As a Data Platform practitioner accuracy, fairness, explicability of these AI models and the environmental considerations of training them are things I care deeply about. AI is amazing and can unlock humanity's potential tremendously. But unless  industry and regulators work together from onset we will repeat several adverse outcomes from social media and crypto. One of the most thoughtful treatment of these topics I have read is ["Challenges in Deploying Machine Learning: a Survey of Case Studies"](https://arxiv.org/abs/2011.09926) by three researchers at Cambridge, UK. It's sections on ethics, trust, security of ML/AI and how to think about tools and holistic approaches to address these should be mandatory read as we embark upon the next stage of our civilisation's journey  
 
 Views strictly personal, all references through following link: https://github.com/shanlodh/pragmaticdataplatformer/blob/main/20230129_BeyondChatGPT.md
+
+<p align="center">
+  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/02_BeyondChatGPT/Images/RayChatGPT.png" />
+</p>
