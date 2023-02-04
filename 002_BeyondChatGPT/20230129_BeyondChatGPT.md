@@ -14,5 +14,5 @@ Views strictly personal
 
 
 <p align="center">
-  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/02_BeyondChatGPT/Images/RayChatGPT.jpg" />
+  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/002_BeyondChatGPT/Images/RayChatGPT.jpg" />
 </p>
