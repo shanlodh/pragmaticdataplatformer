@@ -12,7 +12,7 @@ This note addresses some of the main considerations for enterprise scale AI/LLM 
 
 - **Data governance:** Trickiest of all and, in my mind, this will separate AI winners from others. In tabular data protected characteristics can be excluded from training data, though correlated bias can still seep in through other features. But in LLM, given large size and unstructured data it much more difficult (impossible?) to control the training data space. Prompt filtering, response moderation are some strategies to mitigate ethical and reputation harm from rogue AI apps. Again for faster GTM, consider specialised providers like [Credo AI](https://www.credo.ai/) tu audit the entire AI lifecycle of your apps. Another consideration, specially if you are using an external AI-as-a-service provider is to be fully aware, and in control of, both training data and any serialised API responses shared with the service provider 
 
-AI enabled and traditional software are fusing rapidly, some of the above considerations will ensure this fusion creates sustainable, safe and well-governed business value for enterprises and their customers 
+AI enabled and traditional software are coming together rapidly, above considerations will ensure this fusion creates durable, safe and ethical business value for enterprises and their customers 
 
 <p align="center">
   <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/003_AIEnterpriseApps/Images/CoHereClassify.jpg" />
