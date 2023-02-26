@@ -20,8 +20,6 @@ In summary, unless creating the AI models themselves is your enterprise's core b
 
 **Views strictly personal**
 
-GitHub link to article [here](https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/KnowThyChips.md)
-
 <p align="center">
   <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/Images/ChipsInAI.jpg" />
 </p>
