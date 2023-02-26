@@ -16,7 +16,11 @@ In short, to win with AI, **data platformers know thy chips**:
 
 - **STOP PRESS: NVIDIA DGX Cloud-AI-As-A-Service:** [NVIDIA announced on 22 Feb 2023 earnings call](https://www.crn.com/news/components-peripherals/nvidia-teases-dgx-cloud-ai-as-a-service-as-earnings-wow-wall-street) upcoming DGX Cloud offering Cloud-AI-As-A-Service. Already on Oracle Cloud, DGX details for Azure, GCP et al offerings are expected at [March NVIDIA GTC Developer Conference](https://www.nvidia.com/gtc/). Once again, this illustrates the **growing trend of AI PaaS solutions**  
 
-In summary, unless this it's your enterprise's core business area, **leverage data platform team to provide secure, cost-effective cloud based AI PaaS solutions to develop a winning AI strategy** 
+In summary, unless creating the AI models themselves is your enterprise's core business focus, **leverage data platform teams to provide secure, cost-effective cloud based AI PaaS solutions to develop a winning AI-enabled offerings strategy** 
+
+**Views strictly personal**
+
+GitHub link to article [here](https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/KnowThyChips.md)
 
 <p align="center">
   <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/Images/ChipsInAI.jpg" />
