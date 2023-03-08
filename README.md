@@ -4,7 +4,8 @@ Musings on all things data platform and surrounding ecosystems. In reverse chron
 
 |  Publication Date |   Title | Description | 
 |:---|:---|:---|
-| 26 Feb 2023 | Know Thy Chips | Chips drive AI, to succeed select the right CPU and GPU PaaS solutions 
+| 12 Mar 2023 | AI Regulation | AI is not regulated yet but this is about to change shortly. Be prepared | 
+| 26 Feb 2023 | Know Thy Chips | Chips drive AI, to succeed consider the right CPU and GPU PaaS solutions 
 | 05 Feb 2023 | AI Enterprise Apps | ChatGPT is OpenAI's enterprise app, how to make your own AI apps | 
 | 29 Jan 2023 | Beyond ChatGPT | Explores the broader landscape evolving rapidly following this remarkable innovation | 
-| 27 Dec 2022 | Cloud Cost Optimisation | Cost optimisation suggestions for the first inflation shock in the era of public cloud computing | 
+| 27 Dec 2022 | Cloud Cost Optimisation | Cost optimisations for first inflation shock in the public cloud era | 
