@@ -24,3 +24,42 @@ This post provides an overview of the EU legislative framework, describes the EU
 - EU AI Act next steps, timings and penalties: Once the EU Parliament review is submitted the trilogue process ensues leading to eventual legislation. Calling legislative deadlines is tricky but several commentators (e.g., [here](https://www.arnoldporter.com/en/perspectives/advisories/2023/01/europe-ai-act-moves-forward)) expect the EU AI Act to pass into law later in 2023. There is usually a two-year grace period ([*vacatio legis*](https://www.responsible.ai/post/eu-ai-act-explained)) from the passage of law to help relevant parties prepare for compliance. Non-compliance with the EU AI Act can be subject to administrative fines of up to EUR 30 million or up to 6 % of total worldwide annual company turnover for preceding financial year, whichever is higher 
 
 AI promises great benefits for individuals, corporates and governments. At the same time we need to ensure any AI enabled system is non-discriminatory and protects users' data privacy. The EU AI Act is one of the first pieces of legislation in this rapidly evolving space. The checks and balances it is striving to implement means building AI systems consistent with regulatory guidelines is not only ethical, it is also sound business practice!
+
+```mermaid
+
+erDiagram
+
+    "European Commission" {
+        role    legislation_initiation "represents EU's overall interests"
+        status  proposals_published "published EU AI Act proposals 23 Apr 2021"
+    }
+    "EU AI Act Proposals"{
+        typeAI algorithm_types "(un)supervised, RL, DL, statistical, Bayesian, search, optimisation, expert systems, et al"
+        typeAIRisk algorithm_risk_types "unacceptable, high, low/minimal"
+        highRiskAI  requirements "technical documentation, horizontality (GDPR), EU AI Board, high-risk AI database"
+        minimalRiskAI  requirements "voluntary code of conduct"
+        innovationAccelerators    proposed "establish AI regulatory sandboxes" 
+        futureScope     desired "shape global norms and standards and promote trustworthy AI"
+    }
+    "Council of the EU"{
+        role legislation_review_signoff "represents EU governments"
+        status feedback_released "released General approach 25 Nov 2022"
+        feedback general_purpose_AI "where general purpose AI technology gets integrated ... may become high-risk"
+    }
+    "European Parliament"{
+        role legislation_review_signoff "represents EU citizens"
+        status  pending "being led by two committees" 
+    }
+    "EU AI Act Legislation" {
+        expectedDate late_2023   "see links in post" 
+        gracePeriod  two_years   "two years from date of legislation" 
+        nonCompliance penalties "up to greater of EUR 30 million or 6 % of total worldwide turnover"
+    }
+    
+    "European Commission" ||--|| "EU AI Act Proposals" :"proposed"
+    "EU AI Act Proposals" ||--|| "Council of the EU" : "being reviewed by"
+    "EU AI Act Proposals" ||--|| "European Parliament" : "being reviewed by"
+    "Council of the EU" ||--|| "EU AI Act Legislation" :"upon acceptance"
+    "European Parliament" ||--|| "EU AI Act Legislation" : "upon acceptance"
+  
+```
