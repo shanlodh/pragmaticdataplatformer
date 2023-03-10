@@ -9,3 +9,5 @@ Musings on all things data platform and surrounding ecosystems. In reverse chron
 | 05 Feb 2023 | AI Enterprise Apps | ChatGPT is OpenAI's enterprise app, how to make your own AI apps | 
 | 29 Jan 2023 | Beyond ChatGPT | Explores the broader landscape evolving rapidly following this remarkable innovation | 
 | 27 Dec 2022 | Cloud Cost Optimisation | Cost optimisations for first inflation shock of the public cloud era | 
+
+**Views strictly personal**
