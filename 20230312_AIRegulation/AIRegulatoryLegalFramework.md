@@ -1,6 +1,4 @@
-Amidst all the AI excitement a sobering thought is that currently there is no enforceable regulatory and legal framework for AI-enabled products and services offered by private enterprise. The EU Artificial Intelligence Act looks likely to become one of the first pieces of legislation, at scale, in this area. Similar to GDPR, the EU AI Act may even become a template for wider global standards. And more broadly, AI regulation will undoubtedly become a key focus area with market participants like law firms already gearing up for this development (Image 1 below, article link) 
-
-The EU AI Act, like GDPR, will cover any AI system affecting EU citizens irrespective of where these systems are developed or hosted. So whether you are an AI systems provider, user or financier if your AI endpoints reach any EU jurisdiction you need to be aware of the broad provisions of the EU AI Act to ensure your business model is not upended when the Act becomes law 
+Amidst the AI excitement a sobering thought is that currently there is no enforceable regulatory and legal framework for AI-enabled products and services across Europe and the US. The EU Artificial Intelligence Act would be one of the first pieces of legislation in these regions that collectively [account for a third of global GDP](https://www.worldeconomics.com/Share-of-Global-GDP/United%20States.aspx). The EU AI Act, like GDPR, will cover any AI system affecting EU citizens irrespective of where these systems are developed or hosted. So whether you are an AI systems provider, user or financier if your AI endpoints reach any EU jurisdiction or citizens you need to be aware of the broad provisions of the EU AI Act to ensure your business model is not upended when the Act becomes law. Non-compliance with the EU AI Act can incur fines of up to EUR 30 million or up to 6 % of total worldwide annual company turnover for preceding financial year, whichever is higher 
 
 This post provides an overview of the EU legislative framework, describes the EU AI Act within this framework with a focus on high-risk (including general purpose) AI systems and outlines the timeline to legislation and compliance: 
 
@@ -23,7 +21,9 @@ This post provides an overview of the EU legislative framework, describes the EU
 
 - EU AI Act next steps, timings and penalties: Once the EU Parliament review is submitted the trilogue process ensues leading to eventual legislation. Calling legislative deadlines is tricky but several commentators (e.g., [here](https://www.arnoldporter.com/en/perspectives/advisories/2023/01/europe-ai-act-moves-forward)) expect the EU AI Act to pass into law later in 2023. There is usually a two-year grace period ([*vacatio legis*](https://www.responsible.ai/post/eu-ai-act-explained)) from the passage of law to help relevant parties prepare for compliance. Non-compliance with the EU AI Act can be subject to administrative fines of up to EUR 30 million or up to 6 % of total worldwide annual company turnover for preceding financial year, whichever is higher 
 
-AI promises great benefits for individuals, corporates and governments. At the same time we need to ensure any AI enabled system is non-discriminatory and protects users' data privacy. The EU AI Act is one of the first pieces of legislation in this rapidly evolving space. The checks and balances it is striving to implement means building AI systems consistent with regulatory guidelines is not only ethical, it is also sound business practice!
+Following is a stylised outline of the overall process and its current state for ready reference. Using the source code in the repo link below it can be adapted or updated under a permissive (MIT) license   
+
+# EU AI Act - Outline (as of March, 2023)
 
 ```mermaid
 
