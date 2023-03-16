@@ -20,4 +20,4 @@ The article is split into following sections, with brief outlines:
 
 Complete article, with links, is available on GitHub: https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/KnowThyChips.md and the main conclusion of the article is: unless creating the AI models themselves is your enterprise's core business focus, **leverage data platform teams to provide secure, cost-effective cloud based AI PaaS solutions to develop a winning AI-enabled offerings strategy** 
 
-Views strictly personal 
+***Views strictly personal*** 

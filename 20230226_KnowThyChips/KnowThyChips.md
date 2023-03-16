@@ -21,5 +21,5 @@ In summary, unless creating the AI models themselves is your enterprise's core b
 **Views strictly personal**
 
 <p align="center">
-  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/004_KnowThyChips/Images/ChipsInAI.jpg" />
+  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/20230226_KnowThyChips/Images/ChipsInAI.jpg" />
 </p>
