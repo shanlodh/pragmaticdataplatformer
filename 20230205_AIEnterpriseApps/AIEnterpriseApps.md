@@ -14,6 +14,8 @@ This note addresses some of the main considerations for enterprise scale AI/LLM 
 
 AI enabled and traditional software are coming together rapidly, above considerations will ensure this fusion creates durable, safe and ethical business value for enterprises and their customers 
 
+***Views strictly personal***
+
 <p align="center">
-  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/003_AIEnterpriseApps/Images/CoHereClassify.jpg" />
+  <img src="https://github.com/shanlodh/pragmaticdataplatformer/blob/main/20230205_AIEnterpriseApps/Images/CoHereClassify.jpg" />
 </p>
