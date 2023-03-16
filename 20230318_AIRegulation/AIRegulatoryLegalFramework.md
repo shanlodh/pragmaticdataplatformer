@@ -21,7 +21,7 @@ This post provides an overview of the EU legislative framework, describes the EU
 
 - **EU AI Act next steps, timings:** Once the EU Parliament review is submitted the trilogue process ensues leading to eventual legislation. Calling legislative deadlines is tricky but several commentators (e.g., [here](https://www.arnoldporter.com/en/perspectives/advisories/2023/01/europe-ai-act-moves-forward)) expect the EU AI Act to pass into law later in 2023. There is usually a two-year grace period ([*vacatio legis*](https://www.responsible.ai/post/eu-ai-act-explained)) from the passage of law to help relevant parties prepare for compliance 
 
-Following is a stylised outline [ERD in mermaid.js](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) of the overall process and its current state. Using the source code in the repo link below it can be adapted or updated under a permissive (MIT) license   
+Following is a stylised outline [ERD in mermaid.js](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) of the overall process and its current state. The source code in the repo link below is under the [MIT license](https://en.wikipedia.org/wiki/MIT_License)   
 
 ### **EU AI Act - Outline (as of March, 2023)**
 
