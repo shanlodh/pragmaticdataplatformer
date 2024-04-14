@@ -1,0 +1,15 @@
+As a data professional with an Economics background I was keenly anticipating Ben Bernanke's review of the Bank of England's (BoE) forecasting processes. This review was set up by BoE following a period of significant macro-economic uncertainty. I  wondered how much emphasis the former US Federal Reserve Governor and Economics Noble prize winner would put on the data engineering and infrastructure aspects of macro-economic forecasting in addition to theoretical underpinnings. 
+
+So I was delighted to see that the first major theme highlighted in the review was "building and maintaining a high-quality infrastructure for forecasting and analysis". This theme has several recommendations, I am summarising the top three below that data professionals will identify with. For each recommendation I am also providing references to frameworks and tools currently used in industry. Most likely the BoE is already using or considering several of them and hope this helps bring industry and policy makers ever closer:  
+
+updating and modernisation of software to manage and manipulate data should be continued with high priority - macroeconomic forecast is essentially a machine-learning (ML) pipeline and Uber's Michelangelo framework is one of the earliest and most well known in industry. Several other frameworks are used today but it is still a great one to start with for understanding the overall architecture of ML workloads, has great documentation, and remains in active use and development with recently added features like streaming data, RPC client etc 
+
+Model maintenance and development should be an ongoing priority - good cloud provider (SageMaker, AzureML, Vertex) and others (Weights & Biases) solutions exist and also possible to compose hybrid solutions where an institution decides to host some pipeline stages on-premises due to data residency considerations and plug-and-play metadata functionalities like model registries through these services' Python sdks and/or REST APIs. The key here is in ML models both code and data must be version controlled, so while Git, GitHub are essential it is also critical to have DVC or similar data version control structures in place 
+
+the Bank should undertake a thorough review and updating of its forecasting framework - current framework (COMPASS) has been in use since Nov 2011, so a review and update might be useful. And it could be a great opportunity to test-drive emerging time-series foundation models for universal forecasting (e.g., Moirai) and incorporate automated forecast attribution (Shapley values) and forecast drift (both data and model drifts) measures into the framework 
+
+Undertaking this review was a bold call from the BoE. Kudos to them for going with the best in the field and this strong emphasis on the forecast (ML) engineering framework makes me hopeful that a more robust framework can emerge through this process that will deliver tremendous value to the UK economy and also bridge industry and academic data applications standards considerably   
+
+Views strictly personal 
+
+
