@@ -1,0 +1,15 @@
+ChatGPT may not be able to do dishes or wash clothes (yet) but it sure can help with preparing tax returns! 
+
+Recently had to look at some PDF broker statements to extract information on interest income, capital gains and other charges both in domestic and foreign currencies. After tinkering over a weekend, roughly 4 hours in total, I am pleased with the outcome and have a working project that is modular and templated with good test coverage that can be used going forward. The modularity of the codebase can handle additional statement types or new document schemas. 
+
+Whilst specific information extraction and reporting depend on document structure and tax jurisdiction, I believe there are three learnings here that can be generalised: 
+
+Use ChatGPT to checkpoint ChatGPT prompts: the chat interface makes it easy to add-on queries but after a few turns it can be difficult to summarise the entire session. A simple solution here is to get ChatGPT itself to checkpoint the prompt such as "can you summarize all the prompts in this chat right from the start into a single prompt that is clearly laid out by sections so i can use it for future reference. there is no need to generate any code, just the prompt only". The first image shows the PDF reader prompt summary and the second image shows the capital gains calculation prompt summary that is based off the first prompt. 
+
+Generating synthetic test data from prompts is an LLM super-power: You can see this in the second image that once ChatGPT created the test data, iterations and code extensions moved rapidly. Soon I was able to modularise (arrange into directories) and factorise (smaller helper functions instead of one large function) the code, add breakpoints and drop into the debugger, add typehints, docstrings and make the entire code platform independent. It produced a full test suite (using some of the same data) and finally templated the entire project with cookiecutter. I could have done all of these on the actual data but having a smaller, well-defined, in-memory data set helped get to the final solution much faster
+
+English is THE programming language but ... : don't underestimate the need for domain knowledge and human expertise. As I was looking for code for first-in-first-out (FIFO) capital gains calculation basic CS theory suggests a double-end queue (deque) would be useful. Though ChatGPT did not get this straight off the bat once I prompted it for a deque it even came up with a nifty use of the popleft() method. Again the whole idea is to augment human productivity with GenAI and using our knowledge to steer LLMs through the vast and ever expanding embedding space will always return better quality answers
+
+Still early days in LLM and GenAI land and a lot of the current architecture and tools will certainly evolve but there is no doubt in my mind that ChatGPT (and others) represent an explosive acceleration in the constant arc of progress which is us, humans, talking to machines more easily. Enjoy the ride!! 
+
+All views personal. 
