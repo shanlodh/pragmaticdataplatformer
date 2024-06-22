@@ -1,4 +1,4 @@
-Certainly! Here’s a summary of all the prompts from this chat, organized by sections:
+#### Certainly! Here’s a summary of all the prompts from this chat, organized by sections:
 ---
 ### Initial Request
 - **Task**: Provide Python 3.10 compatible code to solve first-in, first-out capital gains tax calculations on share transactions using a Pandas DataFrame.
